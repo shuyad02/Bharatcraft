@@ -5,11 +5,15 @@
 **Built for the BharatCode Build League 2026 • Powered by BharatCode Inference Lab**
 
 <p align="center">
-  <a href="https://bharatcode.ai/hackathon"><img src="https://img.shields.io/badge/BharatCode-Build_League_2026-ff671f?style=for-the-badge&logo=code&logoColor=white" alt="Hackathon"></a>
+  <a href="https://bharatcraft.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-bharatcraft.vercel.app-ff671f?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"></a>
+  <a href="https://bharatcode.ai/hackathon"><img src="https://img.shields.io/badge/BharatCode-Build_League_2026-blue?style=for-the-badge&logo=code&logoColor=white" alt="Hackathon"></a>
   <a href="https://bharatcode.ai"><img src="https://img.shields.io/badge/Primary_Model-Qwen_3.8_27B-f97316?style=for-the-badge" alt="Qwen"></a>
   <a href="https://bharatcode.ai"><img src="https://img.shields.io/badge/Reasoning_Model-DeepSeek_V4.1_Flash-3b82f6?style=for-the-badge" alt="DeepSeek"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache_2.0-10b981?style=for-the-badge" alt="License"></a>
-  <img src="https://img.shields.io/badge/PRs-Welcome-purple?style=for-the-badge" alt="PRs Welcome">
+</p>
+
+<p align="center">
+  <b>🌐 Live Production URL:</b> <a href="https://bharatcraft.vercel.app"><b>https://bharatcraft.vercel.app</b></a>
 </p>
 
 <p align="center">

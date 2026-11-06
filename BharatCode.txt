@@ -3,6 +3,7 @@ Project Name: BharatCraft
 Tagline: Sovereign AI Web & Component Builder (India's v0 / Bolt.new)
 Author: Shubhash Yadav
 GitHub: https://github.com/shuyad02/Bharatcraft
+Live Demo: https://bharatcraft.vercel.app
 Category: Coding & developer tools
 Primary Model: qwen-3.8-27b
 Reasoning Model: deepseek-v4.1-flash
