@@ -65,8 +65,8 @@ flowchart TD
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/shubhashy2605/bharatcraft.git
-cd bharatcraft
+git clone https://github.com/shuyad02/Bharatcraft.git
+cd Bharatcraft
 ```
 
 ### 2. Install dependencies

@@ -54,7 +54,7 @@ export default function Navbar({ onOpenArchitecture, onDownloadHtml, currentCode
           )}
 
           <a
-            href="https://github.com/shubhashy2605/bharatcraft"
+            href="https://github.com/shuyad02/Bharatcraft"
             target="_blank"
             rel="noreferrer"
             className="p-2 rounded-xl bg-slate-900 hover:bg-slate-800 border border-slate-800 text-slate-400 hover:text-white transition"
