@@ -1,0 +1,12 @@
+BharatCode Build League 2026 Submission
+Project Name: BharatCraft
+Tagline: Sovereign AI Web & Component Builder (India's v0 / Bolt.new)
+Author: Shubhash Yadav
+GitHub: https://github.com/shubhashy2605/bharatcraft
+Category: Coding & developer tools
+Primary Model: qwen-3.8-27b
+Reasoning Model: deepseek-v4.1-flash
+Inference Lab: BharatCode (https://bharatcode.ai)
+API Base: https://bharatcode.ai/api/model/v1
+Submission Date: November 2026
+License: Apache-2.0
